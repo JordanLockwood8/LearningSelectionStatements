@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\install\\OneDrive\\Desktop\\Repos\\LearningSelectionStatements\\SelectionStatementExercise\\Selection statements\\Selection statements\\Selection statements.csproj",
+      "projectUniqueName": "C:\\Users\\install\\OneDrive\\Desktop\\Repos\\LearningSelectionStatements\\Selection statements\\Selection statements\\Selection statements.csproj",
       "projectName": "Selection statements",
-      "projectPath": "C:\\Users\\install\\OneDrive\\Desktop\\Repos\\LearningSelectionStatements\\SelectionStatementExercise\\Selection statements\\Selection statements\\Selection statements.csproj",
+      "projectPath": "C:\\Users\\install\\OneDrive\\Desktop\\Repos\\LearningSelectionStatements\\Selection statements\\Selection statements\\Selection statements.csproj",
       "packagesPath": "C:\\Users\\install\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\install\\OneDrive\\Desktop\\Repos\\LearningSelectionStatements\\SelectionStatementExercise\\Selection statements\\Selection statements\\obj\\",
+      "outputPath": "C:\\Users\\install\\OneDrive\\Desktop\\Repos\\LearningSelectionStatements\\Selection statements\\Selection statements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\install\\AppData\\Roaming\\NuGet\\NuGet.Config",
